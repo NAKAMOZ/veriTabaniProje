@@ -73,9 +73,9 @@ namespace proje.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
-        internal static System.Drawing.Bitmap dc_logo_akpln {
+        internal static System.Drawing.Bitmap Artboard_1 {
             get {
-                object obj = ResourceManager.GetObject("dc_logo_akpln", resourceCulture);
+                object obj = ResourceManager.GetObject("Artboard 1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
